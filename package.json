@@ -1,0 +1,11 @@
+{
+  "name": "kosaigola",
+  "version": "1.0.0",
+  "description": "GitHub profile README for KosAIGoLa",
+  "main": "index.js",
+  "scripts": {
+    "preview": "node -e \"console.log(require('fs').readFileSync('README.md','utf8'))\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
