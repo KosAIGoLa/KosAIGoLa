@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=160&section=header&text=KosAIGoLa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55" alt="KosAIGoLa" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:db2777&height=200&section=header&text=KosAIGoLa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Backend%20%7C%20Automation%20%7C%20Open%20Source&descSize=18&descAlignY=68&stroke=f43f5e&strokeWidth=2" alt="KosAIGoLa" />
 </p>
 
 <p align="center">
   <a href="https://github.com/KosAIGoLa">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=480&lines=Go+%26+PHP+Developer;Vue+%2F+TS+Frontend;Bot+%26+Automation+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=480&lines=Go+%26+PHP+Developer;Vue+%2F+TS+Frontend;Bot+%26+Automation+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KosAIGoLa&label=Views&color=667eea&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/KosAIGoLa?label=Followers&style=flat&color=667eea" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Repos-45-blue?logo=github&style=flat&color=667eea" alt="GitHub repos" />
+  <img src="https://komarev.com/ghpvc/?username=KosAIGoLa&label=Views&color=f97316&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/KosAIGoLa?label=Followers&style=flat&color=f97316" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Repos-45-f97316?logo=github&style=flat" alt="GitHub repos" />
 </p>
 
 <p align="center">
@@ -64,10 +64,10 @@
 ## 🎯 Now / 近況
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔭%20Focus-Go%20%26%20PHP%20Backend-667eea?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/🌱%20Learning-Vue3%20%2B%20TypeScript-667eea?style=flat-square" alt="Learning" />
-  <img src="https://img.shields.io/badge/💡%20Interest-Blockchain%20%26%20Payment-667eea?style=flat-square" alt="Interest" />
-  <img src="https://img.shields.io/badge/🤝%20Open%20to-Collaboration-667eea?style=flat-square" alt="Open to collaboration" />
+  <img src="https://img.shields.io/badge/🔭%20Focus-Go%20%26%20PHP%20Backend-f97316?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/🌱%20Learning-Vue3%20%2B%20TypeScript-f97316?style=flat-square" alt="Learning" />
+  <img src="https://img.shields.io/badge/💡%20Interest-Blockchain%20%26%20Payment-f97316?style=flat-square" alt="Interest" />
+  <img src="https://img.shields.io/badge/🤝%20Open%20to-Collaboration-f97316?style=flat-square" alt="Open to collaboration" />
 </p>
 
 ---
@@ -109,28 +109,30 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KosAIGoLa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KosAIGoLa&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KosAIGoLa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KosAIGoLa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KosAIGoLa&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=KosAIGoLa&theme=radical&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=KosAIGoLa&theme=tokyonight&no-frame=true&column=4" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=KosAIGoLa&theme=radical&no-frame=true&column=4" alt="GitHub trophies" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph / 貢獻足跡
+
+
+## 📈 Activity Graph / 活躍度圖表
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KosAIGoLa&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KosAIGoLa&bg_color=fff7ed&color=f97316&line=fb923c&point=db2777&area_color=fed7aa&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
@@ -138,7 +140,7 @@
 ## 😄 Dev Joke / 開發者笑話
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Random dev joke" />
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Random dev joke" />
 </p>
 
 ---
@@ -146,7 +148,7 @@
 ## 💬 Dev Quote / 開發者語錄
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
 </p>
 
 ---
@@ -163,5 +165,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:db2777&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" alt="Footer" />
 </p>
